@@ -1,2 +1,4 @@
-# Solution_JavaExercise_Learn_Code_Online
-Solving Java Problem by Hitesh Choudhary Sir(https://courses.learncodeonline.in/learn)
+# 
+Solution to the JavaExercise given by Hitesh Choudhary of the website Learn Code Online
+
+Website Links: (https://courses.learncodeonline.in/learn)
